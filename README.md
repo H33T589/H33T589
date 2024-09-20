@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a programming project
 - 📫 How to reach me gmail [Hitkumarp589@gmail.com]
 - 😄 Pronouns: He/HIm
-- ⚡ Fun fact: I love to code and i am cool!
+- ⚡ Fun fact: I can skateboard!
 
 <!---
 H33T589/H33T589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
