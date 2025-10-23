@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H33T589
 - 👀 I’m interested in quantum computing/quantum physics
-- 💞️ I’m looking to collaborate on a programming project
+- 💞️ Open to collaborations on projects
 - ⚡ Fun fact: I can skateboard!
 
 # Heet — CS @ SFU • Rust-curious • Ships fast
