@@ -35,12 +35,15 @@ I am still early in that path, so the focus right now is on building strong foun
 
 ## Right Now
 
-- Building projects and experiments that better reflect my AI and cognition focus
-- Using code to make abstract ideas in learning and perception more concrete
+- Contributing to Situate Vancouver, a map-first city intelligence workspace for Metro Vancouver
+- Building frontend features around mobility lenses, SkyTrain layers, richer map popups, and product interaction
+- Adding engineering foundations like frontend tests, monitoring, and auth handoff work in multi-service web apps
 - Growing through small technical experiments, coursework, and research-adjacent exploration
 
 ## Selected Work
 
+- [Situate Vancouver](https://github.com/Gabriel-Dalton/Situate-Vancouver)  
+  Ongoing work on a city-scale mapping platform spanning React, MapLibre, Django, and FastAPI.
 - [Spatial Audio Engine](https://github.com/H33T589/H33T589.github.io/tree/main/public/spatial-audio)  
   Interactive Web Audio experiment around spatial perception and 3D sound placement.
 - [Quantum Algorithms](https://github.com/H33T589)  
@@ -60,12 +63,6 @@ I am still early in that path, so the focus right now is on building strong foun
   <img src="https://img.shields.io/badge/Language-E6DDD1?style=flat-square" alt="Language" />
   <img src="https://img.shields.io/badge/Model%20Behavior-DDE6E2?style=flat-square" alt="Model Behavior" />
   <img src="https://img.shields.io/badge/Quantum%20Computing-E8E2D8?style=flat-square" alt="Quantum Computing" />
-</p>
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H33T589&show_icons=true&hide_border=true&title_color=1e2936&text_color=4d5b6b&icon_color=2f6c63&bg_color=00000000" alt="GitHub stats" />
 </p>
 
 ## Links
