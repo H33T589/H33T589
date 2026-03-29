@@ -1,27 +1,84 @@
-- 👋 Hi, I’m @H33T589
-- 👀 I’m interested in quantum computing/quantum physics
-- 🤞 Open to collaborations on projects
-- ⚡️ Fun fact: I can skateboard!
+# Heet Patel
 
-# Heet — CS @ SFU • Rust-curious • Ships fast
-I build small, sharp tools with clear READMEs.
+<p align="center">
+  SFU student exploring <strong>AI</strong>, <strong>cognitive systems</strong>, and <strong>computational models of learning</strong>.
+</p>
 
-## Selected work
-- **[Spatial audio sandbox (Rust)](https://github.com/H33T589/spatial-audio-sandbox-rs)** — maps x/y/z to perceived position.
-- **[Horse Race Simulator (C++)](https://github.com/H33T589/school-projects-CPP/blob/main/horse_race_simulator.cpp)** — tiny console game with classes + randomness.
-- **[Algos made in class (C++/Python)](https://github.com/H33T589/school-projects-CPP)** — patterns & small utilities.
+<p align="center">
+  <a href="https://h33t589.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2f6c63?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/H33T589">
+    <img src="https://img.shields.io/badge/GitHub-H33T589-1e2936?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/heet--patel">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8a5a3b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hitkumarp589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-6f9471?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## Recent contributions
-- **[Fast Walsh–Hadamard Transform for Pauli–Liouville conversion](https://github.com/qiboteam/qibo)** — implemented a fast transform to speed up conversions in Qibo (PR opened Oct 26 2025).
-- **[quantumcat](https://github.com/H33T589/quantumcat)** — my own Python repository to prototype quantum algorithms and simulations.
-- **Docs improvement for [artificial-brain/quantumcat](https://github.com/artificial-brain/quantumcat)** — enhanced clarity and introduction.
+## About
 
-## Contact
-Portfolio → https://H33T589.github.io • Email → hitkumarp589@gmail.com
+I am most interested in neural networks, perception, language, model behavior, and the broader question of how intelligence gets built.
 
-Full Repo Structure: [![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=for-the-badge&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff)](https://zread.ai/H33T589/H33T589.github.io)
+I am still early in that path, so the focus right now is on building strong foundations through small experiments, projects, and careful learning rather than overstating expertise. Quantum computing remains a long-term bet I take seriously.
+
+## Focus
+
+- AI and cognitive systems
+- Learning, perception, and language
+- Model behavior and intelligent systems
+- Computational models of cognition
+- Quantum computing as a long-term direction
+
+## Right Now
+
+- Building projects and experiments that better reflect my AI and cognition focus
+- Using code to make abstract ideas in learning and perception more concrete
+- Growing through small technical experiments, coursework, and research-adjacent exploration
+
+## Selected Work
+
+- [Spatial Audio Engine](https://github.com/H33T589/H33T589.github.io/tree/main/public/spatial-audio)  
+  Interactive Web Audio experiment around spatial perception and 3D sound placement.
+- [Quantum Algorithms](https://github.com/H33T589)  
+  Ongoing quantum computing work built around algorithms, simulation, and mathematical intuition.
+- [Qibo contribution](https://github.com/qiboteam/qibo)  
+  Implemented a fast Walsh-Hadamard transform for Pauli-Liouville conversion.
+- [quantumcat](https://github.com/H33T589/quantumcat)  
+  Python repository for prototyping quantum algorithms and simulations.
+
+## Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Neural%20Networks-E8DED0?style=flat-square" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-DCE8D7?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Cognitive%20Systems-E9E1D6?style=flat-square" alt="Cognitive Systems" />
+  <img src="https://img.shields.io/badge/Perception-E5E7D8?style=flat-square" alt="Perception" />
+  <img src="https://img.shields.io/badge/Language-E6DDD1?style=flat-square" alt="Language" />
+  <img src="https://img.shields.io/badge/Model%20Behavior-DDE6E2?style=flat-square" alt="Model Behavior" />
+  <img src="https://img.shields.io/badge/Quantum%20Computing-E8E2D8?style=flat-square" alt="Quantum Computing" />
+</p>
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H33T589&show_icons=true&hide_border=true&title_color=1e2936&text_color=4d5b6b&icon_color=2f6c63&bg_color=00000000" alt="GitHub stats" />
+</p>
+
+## Links
+
+- Portfolio: [h33t589.github.io](https://h33t589.github.io)
+- GitHub: [github.com/H33T589](https://github.com/H33T589)
+- LinkedIn: [linkedin.com/in/heet--patel](https://www.linkedin.com/in/heet--patel)
+- Email: [hitkumarp589@gmail.com](mailto:hitkumarp589@gmail.com)
+
+<p align="center">
+  <em>Trying to make abstract questions about learning and intelligence a little more concrete.</em>
+</p>
 
 <!---
-H33T589/H33T589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+H33T589/H33T589 is a special repository because its `README.md` appears on the GitHub profile.
+--->
