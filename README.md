@@ -35,15 +35,15 @@ I am still early in that path, so the focus right now is on building strong foun
 
 ## Right Now
 
-- Contributing to Situate Vancouver, a map-first city intelligence workspace for Metro Vancouver
+- ⭐ Active now: contributing to Situate Vancouver, a map-first city intelligence workspace for Metro Vancouver
 - Building frontend features around mobility lenses, SkyTrain layers, richer map popups, and product interaction
 - Adding engineering foundations like frontend tests, monitoring, and auth handoff work in multi-service web apps
 - Growing through small technical experiments, coursework, and research-adjacent exploration
 
 ## Selected Work
 
-- [Situate Vancouver](https://github.com/Gabriel-Dalton/Situate-Vancouver)  
-  Ongoing work on a city-scale mapping platform spanning React, MapLibre, Django, and FastAPI.
+- ⭐ [Situate Vancouver](https://github.com/Gabriel-Dalton/Situate-Vancouver)  
+  Active project. Ongoing work on a city-scale mapping platform spanning React, MapLibre, Django, and FastAPI.
 - [Spatial Audio Engine](https://github.com/H33T589/H33T589.github.io/tree/main/public/spatial-audio)  
   Interactive Web Audio experiment around spatial perception and 3D sound placement.
 - [Quantum Algorithms](https://github.com/H33T589)  
